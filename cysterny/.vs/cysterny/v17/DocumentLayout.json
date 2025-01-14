@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\cysterny\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28D1129A-9455-42F6-81BE-8AFA979465EF}|cysterny.csproj|e:\\cysterny\\cysternatester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D1129A-9455-42F6-81BE-8AFA979465EF}|cysterny.csproj|solutionrelative:cysternatester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D1129A-9455-42F6-81BE-8AFA979465EF}|cysterny.csproj|e:\\cysterny\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D1129A-9455-42F6-81BE-8AFA979465EF}|cysterny.csproj|solutionrelative:test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D1129A-9455-42F6-81BE-8AFA979465EF}|cysterny.csproj|e:\\cysterny\\prostopad\u0142o\u015Bcian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D1129A-9455-42F6-81BE-8AFA979465EF}|cysterny.csproj|solutionrelative:prostopad\u0142o\u015Bcian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D1129A-9455-42F6-81BE-8AFA979465EF}|cysterny.csproj|e:\\cysterny\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{28D1129A-9455-42F6-81BE-8AFA979465EF}|cysterny.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D1129A-9455-42F6-81BE-8AFA979465EF}|cysterny.csproj|e:\\cysterny\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D1129A-9455-42F6-81BE-8AFA979465EF}|cysterny.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Test.cs",
+              "DocumentMoniker": "E:\\cysterny\\Test.cs",
+              "RelativeDocumentMoniker": "Test.cs",
+              "ToolTip": "E:\\cysterny\\Test.cs",
+              "RelativeToolTip": "Test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T18:33:52.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\cysterny\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\cysterny\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAywAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T18:33:18.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\cysterny\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\cysterny\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T18:33:13.659Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CysternaTester.cs",
+              "DocumentMoniker": "E:\\cysterny\\CysternaTester.cs",
+              "RelativeDocumentMoniker": "CysternaTester.cs",
+              "ToolTip": "E:\\cysterny\\CysternaTester.cs",
+              "RelativeToolTip": "CysternaTester.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwD8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T18:32:47.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "prostopad\u0142o\u015Bcian.cs",
+              "DocumentMoniker": "E:\\cysterny\\prostopad\u0142o\u015Bcian.cs",
+              "RelativeDocumentMoniker": "prostopad\u0142o\u015Bcian.cs",
+              "ToolTip": "E:\\cysterny\\prostopad\u0142o\u015Bcian.cs",
+              "RelativeToolTip": "prostopad\u0142o\u015Bcian.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T18:32:20.347Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

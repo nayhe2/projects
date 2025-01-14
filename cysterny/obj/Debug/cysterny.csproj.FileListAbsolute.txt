@@ -1,0 +1,74 @@
+C:\Users\Wiktor\Desktop\probiekt2-nowe-main\probiekt2-nowe-main\bin\Debug\cysterny.exe.config
+C:\Users\Wiktor\Desktop\probiekt2-nowe-main\probiekt2-nowe-main\bin\Debug\cysterny.exe
+C:\Users\Wiktor\Desktop\probiekt2-nowe-main\probiekt2-nowe-main\bin\Debug\cysterny.pdb
+C:\Users\Wiktor\Desktop\probiekt2-nowe-main\probiekt2-nowe-main\obj\Debug\cysterny.csproj.AssemblyReference.cache
+C:\Users\Wiktor\Desktop\probiekt2-nowe-main\probiekt2-nowe-main\obj\Debug\cysterny.csproj.CoreCompileInputs.cache
+C:\Users\Wiktor\Desktop\probiekt2-nowe-main\probiekt2-nowe-main\obj\Debug\cysterny.exe
+C:\Users\Wiktor\Desktop\probiekt2-nowe-main\probiekt2-nowe-main\obj\Debug\cysterny.pdb
+C:\Users\Wiktor\Desktop\probiekt2-nowe-main - Copy\probiekt2-nowe-main\bin\Debug\cysterny.exe.config
+C:\Users\Wiktor\Desktop\probiekt2-nowe-main - Copy\probiekt2-nowe-main\bin\Debug\cysterny.exe
+C:\Users\Wiktor\Desktop\probiekt2-nowe-main - Copy\probiekt2-nowe-main\bin\Debug\cysterny.pdb
+C:\Users\Wiktor\Desktop\probiekt2-nowe-main - Copy\probiekt2-nowe-main\obj\Debug\cysterny.csproj.AssemblyReference.cache
+C:\Users\Wiktor\Desktop\probiekt2-nowe-main - Copy\probiekt2-nowe-main\obj\Debug\cysterny.csproj.CoreCompileInputs.cache
+C:\Users\Wiktor\Desktop\probiekt2-nowe-main - Copy\probiekt2-nowe-main\obj\Debug\cysterny.exe
+C:\Users\Wiktor\Desktop\probiekt2-nowe-main - Copy\probiekt2-nowe-main\obj\Debug\cysterny.pdb
+C:\Users\pk\Downloads\zad-3-cysterny-nayhe2-main\zad-3-cysterny-nayhe2-main\bin\Debug\cysterny.exe.config
+C:\Users\pk\Downloads\zad-3-cysterny-nayhe2-main\zad-3-cysterny-nayhe2-main\bin\Debug\cysterny.exe
+C:\Users\pk\Downloads\zad-3-cysterny-nayhe2-main\zad-3-cysterny-nayhe2-main\bin\Debug\cysterny.pdb
+C:\Users\pk\Downloads\zad-3-cysterny-nayhe2-main\zad-3-cysterny-nayhe2-main\obj\Debug\cysterny.csproj.AssemblyReference.cache
+C:\Users\pk\Downloads\zad-3-cysterny-nayhe2-main\zad-3-cysterny-nayhe2-main\obj\Debug\cysterny.csproj.CoreCompileInputs.cache
+C:\Users\pk\Downloads\zad-3-cysterny-nayhe2-main\zad-3-cysterny-nayhe2-main\obj\Debug\cysterny.exe
+C:\Users\pk\Downloads\zad-3-cysterny-nayhe2-main\zad-3-cysterny-nayhe2-main\obj\Debug\cysterny.pdb
+D:\studia\II\probiekt2\prosze\bin\Debug\cysterny.exe
+D:\studia\II\probiekt2\prosze\bin\Debug\cysterny.exe.config
+D:\studia\II\probiekt2\prosze\obj\Debug\cysterny.csproj.AssemblyReference.cache
+D:\studia\II\probiekt2\prosze\obj\Debug\cysterny.Form1.resources
+D:\studia\II\probiekt2\prosze\obj\Debug\cysterny.csproj.GenerateResource.cache
+D:\studia\II\probiekt2\prosze\obj\Debug\cysterny.csproj.CoreCompileInputs.cache
+D:\studia\II\probiekt2\prosze\obj\Debug\cysterny.exe
+D:\studia\II\probiekt2\prosze\obj\Debug\cysterny.pdb
+D:\studia\II\probiekt2\prosze\bin\Debug\cysterny.pdb
+D:\studia\II\probiekt2\prosze - Copy\bin\Debug\cysterny.exe.config
+D:\studia\II\probiekt2\prosze - Copy\bin\Debug\cysterny.exe
+D:\studia\II\probiekt2\prosze - Copy\bin\Debug\cysterny.pdb
+D:\studia\II\probiekt2\prosze - Copy\obj\Debug\cysterny.csproj.AssemblyReference.cache
+D:\studia\II\probiekt2\prosze - Copy\obj\Debug\cysterny.Form1.resources
+D:\studia\II\probiekt2\prosze - Copy\obj\Debug\cysterny.csproj.GenerateResource.cache
+D:\studia\II\probiekt2\prosze - Copy\obj\Debug\cysterny.csproj.CoreCompileInputs.cache
+D:\studia\II\probiekt2\prosze - Copy\obj\Debug\cysterny.exe
+D:\studia\II\probiekt2\prosze - Copy\obj\Debug\cysterny.pdb
+D:\studia\II\probiekt2\prosze - Copy\bin\Debug\KsztaltLibrary.dll
+D:\studia\II\probiekt2\prosze - Copy\bin\Debug\KulaLibrary.dll
+D:\studia\II\probiekt2\prosze - Copy\bin\Debug\ProstopadloscianLibrary.dll
+D:\studia\II\probiekt2\prosze - Copy\bin\Debug\StozekLibrary.dll
+D:\studia\II\probiekt2\prosze - Copy\bin\Debug\WalecLibrary.dll
+D:\studia\II\probiekt2\prosze - Copy\obj\Debug\cysterny.csproj.Up2Date
+D:\studia\II\probiekt2\backup\prosze - Copy\obj\Debug\cysterny.csproj.AssemblyReference.cache
+D:\studia\II\probiekt2\backup\prosze - Copy\obj\Debug\cysterny.Form1.resources
+D:\studia\II\probiekt2\backup\prosze - Copy\obj\Debug\cysterny.csproj.GenerateResource.cache
+D:\studia\II\probiekt2\backup\prosze - Copy\obj\Debug\cysterny.csproj.CoreCompileInputs.cache
+D:\studia\II\probiekt2\backup\prosze - Copy\obj\Debug\cysterny.exe
+D:\studia\II\probiekt2\backup\prosze - Copy\obj\Debug\cysterny.pdb
+D:\studia\II\probiekt2\backup\prosze - Copy\bin\Debug\cysterny.exe.config
+D:\studia\II\probiekt2\backup\prosze - Copy\bin\Debug\cysterny.exe
+D:\studia\II\probiekt2\backup\prosze - Copy\bin\Debug\cysterny.pdb
+D:\studia\II\probiekt2\backup\prosze - Copy\obj\Debug\cysterny.csproj.Up2Date
+D:\studia\II\probiekt2\backup\prosze - Copy  3D\bin\Debug\cysterny.exe.config
+D:\studia\II\probiekt2\backup\prosze - Copy  3D\bin\Debug\cysterny.exe
+D:\studia\II\probiekt2\backup\prosze - Copy  3D\bin\Debug\cysterny.pdb
+D:\studia\II\probiekt2\backup\prosze - Copy  3D\obj\Debug\cysterny.csproj.AssemblyReference.cache
+D:\studia\II\probiekt2\backup\prosze - Copy  3D\obj\Debug\cysterny.Form1.resources
+D:\studia\II\probiekt2\backup\prosze - Copy  3D\obj\Debug\cysterny.csproj.GenerateResource.cache
+D:\studia\II\probiekt2\backup\prosze - Copy  3D\obj\Debug\cysterny.csproj.CoreCompileInputs.cache
+D:\studia\II\probiekt2\backup\prosze - Copy  3D\obj\Debug\cysterny.csproj.Up2Date
+D:\studia\II\probiekt2\backup\prosze - Copy  3D\obj\Debug\cysterny.exe
+D:\studia\II\probiekt2\backup\prosze - Copy  3D\obj\Debug\cysterny.pdb
+D:\studia\II\probiekt2\backup\prosze - Copy  3D - bez dll\bin\Debug\cysterny.exe.config
+D:\studia\II\probiekt2\backup\prosze - Copy  3D - bez dll\bin\Debug\cysterny.exe
+D:\studia\II\probiekt2\backup\prosze - Copy  3D - bez dll\bin\Debug\cysterny.pdb
+D:\studia\II\probiekt2\backup\prosze - Copy  3D - bez dll\obj\Debug\cysterny.csproj.AssemblyReference.cache
+D:\studia\II\probiekt2\backup\prosze - Copy  3D - bez dll\obj\Debug\cysterny.Form1.resources
+D:\studia\II\probiekt2\backup\prosze - Copy  3D - bez dll\obj\Debug\cysterny.csproj.GenerateResource.cache
+D:\studia\II\probiekt2\backup\prosze - Copy  3D - bez dll\obj\Debug\cysterny.csproj.CoreCompileInputs.cache
+D:\studia\II\probiekt2\backup\prosze - Copy  3D - bez dll\obj\Debug\cysterny.exe
+D:\studia\II\probiekt2\backup\prosze - Copy  3D - bez dll\obj\Debug\cysterny.pdb
